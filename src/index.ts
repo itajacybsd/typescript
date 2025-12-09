@@ -1,4 +1,3 @@
-const x: number =3;
+import './tipos/variaveis';
 
-console.log(x * 7 + 10);
 
