@@ -8,5 +8,6 @@
 // import './tipos/objetos';
 // import './tipos/desafio_produto';
 // import './tipos/uniao';
-import './tipos/never';
+// import './tipos/never';
+import './tipos/null';
 
