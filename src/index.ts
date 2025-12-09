@@ -1,3 +1,4 @@
-import './tipos/variaveis';
+// import './tipos/variaveis';
+import './tipos/array';
 
 
