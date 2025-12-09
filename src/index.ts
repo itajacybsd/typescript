@@ -5,5 +5,6 @@
 // import './tipos/enums_tipo';
 // import './tipos/funcoes';
 // import './tipos/funcoes_tipo';
-import './tipos/objetos';
+// import './tipos/objetos';
+import './tipos/desafio_produto';
 
