@@ -11,6 +11,7 @@
 // import './tipos/never';
 // import './tipos/null';
 // import './tipos/desafio_final';
-import './tipos/desafio_final_prof';
+// import './tipos/desafio_final_prof';
 
+import './oo/classe_1';
 
