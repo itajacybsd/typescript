@@ -1,16 +1,13 @@
 class Curso {
-    private _id: number;
+    readonly id: number;
     public nome: string | undefined;
 
     constructor(id: number) {
-        this._id = id;
+        this.id = id;
         if (id <1) throw new Error("ID inválido");
     }
 
-
-    get id() {
-        return this._id;
-    }
+ 
 }
 
 const c1 = new Curso(123);
