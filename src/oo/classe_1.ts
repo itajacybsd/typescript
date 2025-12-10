@@ -20,3 +20,8 @@ c1.id = 123;
 c1.nome = "Iniciando com TypeScript";
 console.log(c1.id);
 console.log(c1.nome);
+
+
+// para resolver o problema do conflito de módulos
+
+export {};

@@ -13,5 +13,6 @@
 // import './tipos/desafio_final';
 // import './tipos/desafio_final_prof';
 
-import './oo/classe_1';
+// import './oo/classe_1';
+import './oo/classe_2';
 
