@@ -14,5 +14,7 @@
 // import './tipos/desafio_final_prof';
 
 // import './oo/classe_1';
-import './oo/classe_2';
+// import './oo/classe_2';
+// import './OO/classe_31';
+import './OO/classe_32';
 
