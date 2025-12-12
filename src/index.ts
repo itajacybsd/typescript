@@ -19,6 +19,7 @@
 // import './OO/classe_32';
 // import './OO/desafio_estatico';
 // import './interfaces/usuario';
-import './interfaces/flexivel';
+// import './interfaces/flexivel';
+import './interfaces/funcao';
 
 
