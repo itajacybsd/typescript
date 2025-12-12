@@ -2,6 +2,8 @@ interface Usuario {
     id: number;
     nome: string;
     email: string;
+    //! a "?" indica que o campo é opcional
+    senha?: string;
     // funcao: (a: number, b: number) => boolean;
 }
 
