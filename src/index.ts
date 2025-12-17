@@ -20,6 +20,7 @@
 // import './OO/desafio_estatico';
 // import './interfaces/usuario';
 // import './interfaces/flexivel';
-import './interfaces/funcao';
+// import './interfaces/funcao';
+import './pilares_oo/encapsulamento';
 
 
