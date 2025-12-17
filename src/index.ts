@@ -21,6 +21,7 @@
 // import './interfaces/usuario';
 // import './interfaces/flexivel';
 // import './interfaces/funcao';
-import './pilares_oo/encapsulamento';
+// import './pilares_oo/encapsulamento';
+import './pilares_oo/heranca_1';
 
 
