@@ -24,6 +24,7 @@
 // import './pilares_oo/encapsulamento';
 // import './pilares_oo/heranca_1';
 // import './pilares_oo/heranca_2';
-import './pilares_oo/heranca_3';
+// import './pilares_oo/heranca_3';
+import './pilares_oo/heranca_4';
 
 
